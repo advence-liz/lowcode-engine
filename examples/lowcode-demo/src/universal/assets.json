@@ -3,17 +3,13 @@
     {
       "package": "moment",
       "version": "2.24.0",
-      "urls": [
-        "https://g.alicdn.com/mylib/moment/2.24.0/min/moment.min.js"
-      ],
+      "urls": ["https://g.alicdn.com/mylib/moment/2.24.0/min/moment.min.js"],
       "library": "moment"
     },
     {
       "package": "lodash",
       "library": "_",
-      "urls": [
-        "https://g.alicdn.com/platform/c/lodash/4.6.1/lodash.min.js"
-      ]
+      "urls": ["https://g.alicdn.com/platform/c/lodash/4.6.1/lodash.min.js"]
     },
     {
       "title": "fusion组件库",
@@ -112,10 +108,7 @@
     }
   ],
   "sort": {
-    "groupList": [
-      "精选组件",
-      "原子组件"
-    ],
+    "groupList": ["原子组件", "精选组件"],
     "categoryList": [
       "基础元素",
       "布局容器类",
@@ -131,9 +124,6 @@
       "信息反馈"
     ]
   },
-  "groupList": [
-    "精选组件",
-    "原子组件"
-  ],
+  "groupList": ["精选组件", "原子组件"],
   "ignoreComponents": {}
 }
