@@ -2,8 +2,7 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "packages/*",
-      "examples/*"
+      "packages/*"
     ],
     "nohoist": [
       "**/css-modules-typescript-loader",

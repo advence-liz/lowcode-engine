@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": ["packages/*", "examples/*"],
+  "packages": ["packages/*"],
   "command": {
     "bootstrap": {
       "npmClientArgs": ["--no-package-lock"]
